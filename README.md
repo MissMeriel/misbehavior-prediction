@@ -1,7 +1,7 @@
 ## ICSE 2020 - Submission 
 
 This repository contains the code for the double blind review process of our paper.
-See COPYRIGHT.md for more information if you are not one of the official reviewers and want to use the code.
+See LICENSE.md for more information if you are not one of the official reviewers and want to use the code.
 
 ### Repository Structure
 
